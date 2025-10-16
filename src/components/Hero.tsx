@@ -17,7 +17,7 @@ export function Hero() {
             {/* Background Image */}
             <div className="absolute inset-0 z-0">
                 <Image
-                    src="/Hero/hero-background-image-1.jpg"
+                    src="/hero/hero-background-image-1.jpg"
                     alt=""
                     fill
                     className="object-cover opacity-50"
@@ -71,7 +71,7 @@ export function Hero() {
                     <div className="hidden lg:block">
                         <div className="relative w-full h-[500px] rounded-lg overflow-hidden shadow-2xl">
                             <Image
-                                src="/Hero/hero-layout-image.jpg"
+                                src="/hero/hero-layout-image.jpg"
                                 alt="Students pursuing their dreams"
                                 fill
                                 className="object-cover"
