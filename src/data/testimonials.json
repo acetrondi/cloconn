@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Aarav Sharma",
+    "relation": "Student",
+    "quote": "Mohini ma'am guided me end-to-end for my UK admits. Her personalized approach made all the difference in my university applications.",
+    "university": "University of Manchester",
+    "avatar": "/avatars/aarav.jpg"
+  },
+  {
+    "name": "Priya Mehta",
+    "relation": "Parent",
+    "quote": "We were confused about the right career path for our daughter. Cloconn's psychometric assessment and counselling gave us complete clarity.",
+    "university": "IIT Bombay",
+    "avatar": "/avatars/priya.jpg"
+  },
+  {
+    "name": "Rohan Desai",
+    "relation": "Student",
+    "quote": "The SOP and essay support was exceptional. I got admits from 5 top US universities with scholarship offers. Truly grateful!",
+    "university": "UC Berkeley",
+    "avatar": "/avatars/rohan.jpg"
+  },
+  {
+    "name": "Ananya Patel",
+    "relation": "Student",
+    "quote": "Visa assistance was smooth and stress-free. Mohini ma'am's guidance throughout the process was invaluable.",
+    "university": "University of Sydney",
+    "avatar": "/avatars/ananya.jpg"
+  },
+  {
+    "name": "Vikram Singh",
+    "relation": "Parent",
+    "quote": "A human-centric approach to counselling. They understood my son's unique aspirations and helped him choose the perfect course.",
+    "university": "NUS Singapore",
+    "avatar": "/avatars/vikram.jpg"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "choosing-your-major",
+    "title": "Choosing Your Major with Confidence",
+    "author": "Team Cloconn",
+    "date": "2024-10-10",
+    "summary": "A practical guide to stream selection and finding the right academic path for your career goals.",
+    "thumbnail": "/blogs/choosing-major.png",
+    "category": "Career Guidance"
+  },
+  {
+    "slug": "study-abroad-checklist",
+    "title": "The Complete Study Abroad Checklist",
+    "author": "Mohini Majithia",
+    "date": "2024-09-25",
+    "summary": "Everything you need to know before applying to universities abroad—from tests to timelines.",
+    "thumbnail": "/blogs/abroad.png",
+    "category": "Study Abroad"
+  },
+  {
+    "slug": "writing-sop-that-stands-out",
+    "title": "Writing an SOP That Stands Out",
+    "author": "Team Cloconn",
+    "date": "2024-09-15",
+    "summary": "Tips and strategies for crafting a compelling Statement of Purpose that gets you noticed.",
+    "thumbnail": "/blogs/sop.png",
+    "category": "Applications"
+  },
+  {
+    "slug": "scholarship-opportunities-2025",
+    "title": "Top Scholarship Opportunities for 2025",
+    "author": "Mohini Majithia",
+    "date": "2024-08-30",
+    "summary": "Explore scholarship programs across countries and how to maximize your chances of funding.",
+    "thumbnail": "/blogs/scholarships.png",
+    "category": "Scholarships"
+  },
+  {
+    "slug": "career-paths-after-engineering",
+    "title": "Career Paths After Engineering",
+    "author": "Team Cloconn",
+    "date": "2024-08-18",
+    "summary": "Beyond traditional roles—discover diverse career options for engineering graduates.",
+    "thumbnail": "/blogs/engineering.png",
+    "category": "Career Guidance"
+  },
+  {
+    "slug": "preparing-for-visa-interview",
+    "title": "Preparing for Your Visa Interview",
+    "author": "Mohini Majithia",
+    "date": "2024-07-22",
+    "summary": "Common questions, dos and don'ts, and how to approach your student visa interview confidently.",
+    "thumbnail": "/blogs/visa.png",
+    "category": "Visa & Immigration"
+  }
+]
